@@ -1,0 +1,2 @@
+# Admin
+Strict Website
